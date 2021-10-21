@@ -20,3 +20,6 @@ Will be made public upon publication of the related work:
 * [Research blog](https://research.adfoucart.be)
 * [Twitter](https://twitter.com/adfoucart)
 * [Youtube](https://www.youtube.com/channel/UCbBZNHYHOte25t8o2aHZRPg)
+
+# Latest videos
+<!-- YT-LIST:START --><!-- YT-LIST:END -->
