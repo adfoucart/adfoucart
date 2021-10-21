@@ -22,4 +22,10 @@ Will be made public upon publication of the related work:
 * [Youtube](https://www.youtube.com/channel/UCbBZNHYHOte25t8o2aHZRPg)
 
 # Latest videos
-<!-- YT-LIST:START --><!-- YT-LIST:END -->
+<!-- YT-LIST:START -->
+- [Deep Learning for Image Analysis](https://www.youtube.com/watch?v=pykWxW8gim0)
+- [Image processing (33) | Image Segmentation | Object labeling & features](https://www.youtube.com/watch?v=7bOH4E7c8gU)
+- [Image processing (32) | Image Segmentation | Distance transform](https://www.youtube.com/watch?v=s1eABOdNnVg)
+- [Image processing (31) | Image Segmentation | Watershed transform](https://www.youtube.com/watch?v=GuVp7dlzEKE)
+- [Image processing (30) | Image Segmentation | Markers for region growing](https://www.youtube.com/watch?v=3e0-rE9zhFk)
+<!-- YT-LIST:END -->
