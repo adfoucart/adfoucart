@@ -24,8 +24,8 @@ Will be made public upon publication of the related work:
 # Latest videos
 <!-- YT-LIST:START -->
 - [Deep Learning for Image Analysis](https://www.youtube.com/watch?v=pykWxW8gim0)
-- [Image processing (33) | Image Segmentation | Object labeling & features](https://www.youtube.com/watch?v=7bOH4E7c8gU)
-- [Image processing (32) | Image Segmentation | Distance transform](https://www.youtube.com/watch?v=s1eABOdNnVg)
-- [Image processing (31) | Image Segmentation | Watershed transform](https://www.youtube.com/watch?v=GuVp7dlzEKE)
-- [Image processing (30) | Image Segmentation | Markers for region growing](https://www.youtube.com/watch?v=3e0-rE9zhFk)
+- [Image processing &lpar;33&rpar; | Image Segmentation | Object labeling &amp; features](https://www.youtube.com/watch?v=7bOH4E7c8gU)
+- [Image processing &lpar;32&rpar; | Image Segmentation | Distance transform](https://www.youtube.com/watch?v=s1eABOdNnVg)
+- [Image processing &lpar;31&rpar; | Image Segmentation | Watershed transform](https://www.youtube.com/watch?v=GuVp7dlzEKE)
+- [Image processing &lpar;30&rpar; | Image Segmentation | Markers for region growing](https://www.youtube.com/watch?v=3e0-rE9zhFk)
 <!-- YT-LIST:END -->
