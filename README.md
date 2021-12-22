@@ -2,12 +2,14 @@
 
 ## PhD Thesis code
 
-These repositories are related to my work on "Deep Learning in Digital Pathology".
-
 * [adfoucart/deephisto](https://github.com/adfoucart/deephisto): main code base
 
-Will be made public upon publication of the related work:
-* [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl)
+Most of this code is used (or is a refactoring of the code used) in the publications:
+
+* A. Foucart, O. Debeir, C. Decaestecker, *Processing multi-expert annotations in digital pathology: a study of the Gleason2019 challenge*, 17th International Symposium on Medical Information Processing and Analysis (SIPAIM 2021) (https://doi.org/10.1117/12.2604307)
+* A. Foucart, O. Debeir, C. Decaestecker, *Snow Supervision in Digital Pathology: Managing Imperfect Annotations for Segmentation in Deep Learning*, Preprint (2020) (https://www.researchsquare.com/article/rs-116512/v1)
+* A. Foucart, O. Debeir, C. Decaestecker, *SNOW: Semi-Supervised, NOisy and/or Weak Data for Deep Learning in Digital Pathology*, Proc. 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019) (pp. 1869-1872) (https://doi.org/10.1109/ISBI.2019.8759545)
+
 
 ## Teaching
 
