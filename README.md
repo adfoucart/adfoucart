@@ -7,7 +7,7 @@ These repositories are related to my work on "Deep Learning in Digital Pathology
 * [adfoucart/deephisto](https://github.com/adfoucart/deephisto): main code base
 
 Will be made public upon publication of the related work:
-* [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl): supplementary materials for "Disentangled metrics for a better insight into challenge results: lessons from the MoNuSAC2020 challenge"
+* [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl)
 
 ## Teaching
 
