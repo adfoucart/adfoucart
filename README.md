@@ -14,7 +14,7 @@ Most of this code is used (or is a refactoring of the code used) in the publicat
 ## Teaching
 
 * [adfoucart/image-processing-notebooks](https://github.com/adfoucart/image-processing-notebooks): notebooks related to the Youtube playlist "[Image processing](https://www.youtube.com/playlist?list=PLI3XOM9BWLSW6vTPxc9ZfSABS31o7HMub)", for the course "INFOH500 - Image acquisition and processing"
-* [adfoucart/infoh400-labs2021](https://github.com/adfoucart/infoh400-labs2021) + [adfoucart/infoh400-2021-web](https://github.com/adfoucart/infoh400-2021-web): Java code for the "INFOH400 - Medical information systems" course (2021 version).
+* [adfoucart/infoh400-labs2022](https://github.com/adfoucart/infoh400-labs2022) : Java code for the "INFOH400 - Medical information systems" course (2022 version).
 * [adfoucart/dlia-videos](https://github.com/adfoucart/dlia-videos): code for the video tutorial "[Deep Learning for Image Analysis](https://www.youtube.com/watch?v=pykWxW8gim0)"
 
 # Where to find me?
