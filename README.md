@@ -27,11 +27,7 @@ Most of this code is used (or is a refactoring of the code used) in the publicat
 * [Twitter](https://twitter.com/adfoucart)
 * [Youtube](https://www.youtube.com/channel/UCbBZNHYHOte25t8o2aHZRPg)
 
-# Latest videos
-<!-- YT-LIST:START -->
-- [Computer Vision in 1965](https://www.youtube.com/watch?v=_LWX6JGBPIY)
-- [Deep Learning for Image Analysis](https://www.youtube.com/watch?v=pykWxW8gim0)
-- [Image processing &lpar;33&rpar; | Image Segmentation | Object labeling &amp; features](https://www.youtube.com/watch?v=7bOH4E7c8gU)
-- [Image processing &lpar;32&rpar; | Image Segmentation | Distance transform](https://www.youtube.com/watch?v=s1eABOdNnVg)
-- [Image processing &lpar;31&rpar; | Image Segmentation | Watershed transform](https://www.youtube.com/watch?v=GuVp7dlzEKE)
-<!-- YT-LIST:END -->
+# Videos
+- [Deep Learning and Computer Vision playlist](https://www.youtube.com/watch?v=_LWX6JGBPIY&list=PLI3XOM9BWLSVnBQiMcOldTRhuyk414Xcx)
+- [Image processing playlist](https://www.youtube.com/watch?v=rgJmji4rTpw&list=PLI3XOM9BWLSW6vTPxc9ZfSABS31o7HMub)
+- [Medical Information Systems playlist](https://www.youtube.com/watch?v=jdikw6MWpro&list=PLI3XOM9BWLSWAfXfXkhSU8U_X9dYNanum)
