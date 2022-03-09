@@ -18,6 +18,8 @@ Most of this code is used (or is a refactoring of the code used) in the publicat
 
 * [adfoucart/image-processing-notebooks](https://github.com/adfoucart/image-processing-notebooks): notebooks related to the Youtube playlist "[Image processing](https://www.youtube.com/playlist?list=PLI3XOM9BWLSW6vTPxc9ZfSABS31o7HMub)", for the course "INFOH500 - Image acquisition and processing"
 * [adfoucart/infoh400-labs2022](https://github.com/adfoucart/infoh400-labs2022) : Java code for the "INFOH400 - Medical information systems" course (2022 version).
+* [odebeir/info-h-500](https://github.com/odebeir/info-h-500): Notebooks for the "INFOH500 - Image acquisition and processing" course.
+* [odebeir/info-h-501](https://github.com/odebeir/info-h-501): Notebooks for the "INFOH501 - Pattern recognition and image analysis" course.
 * [adfoucart/dlia-videos](https://github.com/adfoucart/dlia-videos): code for the video tutorial "[Deep Learning for Image Analysis](https://www.youtube.com/watch?v=pykWxW8gim0)"
 
 # Where to find me?
