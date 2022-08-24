@@ -2,7 +2,8 @@
 
 ## PhD Thesis code
 
-* [adfoucart/deephisto](https://github.com/adfoucart/deephisto): main code base
+* [adfoucart/thesis-code-suppl](https://github.com/adfoucart/thesis-code-suppl): supplementary material for the PhD dissertation
+* [adfoucart/deephisto](https://github.com/adfoucart/deephisto): main code base for publications
 * [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl): supplementary material for the 2022 article "Evaluating participating methods in image analysis challenges: lessons from MoNuSAC 2020"
 * [adfoucart/monusac-results-code-analysis](https://github.com/adfoucart/monusac-results-code-analysis): supplementary material for the comment article on the MoNuSAC 2020 publication.
 
