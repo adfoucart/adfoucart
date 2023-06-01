@@ -4,7 +4,7 @@
 
 * [adfoucart/thesis-code-suppl](https://github.com/adfoucart/thesis-code-suppl): supplementary material for the PhD dissertation
 * [adfoucart/deephisto](https://github.com/adfoucart/deephisto): main code base for publications
-* [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl): supplementary material for the 2022 article "Evaluating participating methods in image analysis challenges: lessons from MoNuSAC 2020"
+* [adfoucart/disentangled-metrics-suppl](https://github.com/adfoucart/disentangled-metrics-suppl): supplementary material for the 2023 article "Evaluating participating methods in image analysis challenges: lessons from MoNuSAC 2020" ([Pattern Recognition](https://doi.org/10.1016/j.patcog.2023.109600))
 * [adfoucart/monusac-results-code-analysis](https://github.com/adfoucart/monusac-results-code-analysis): supplementary material for the comment article on the MoNuSAC 2020 publication.
 * [adfoucart/panoptic-quality-suppl](https://github.com/adfoucart/panoptic-quality-suppl): supplementary material for the 2023 article "Panoptic Quality should be avoided as a metric for assessing cell nuclei segmentation and classification in digital pathology" ([Scientific Reports](https://www.nature.com/articles/s41598-023-35605-7)).
 
