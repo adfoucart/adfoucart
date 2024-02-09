@@ -1,9 +1,9 @@
 # Main repositories
 
-## Current projects
+## Post-doc projects
 
-* [Gitlab.com:adfoucart/tissue-segmentation](https://gitlab.com/adfoucart/tissue-segmentation) : tissue segmantation in digital pathology, related to an upcoming SIPAIM 2023 paper.
-* [Gitlab.com:prother-wal_ulb_lis_mnu/openwholeslide](https://gitlab.com/prother-wal_ulb_lis_mnu/openwholeslide) : openwholeslide, a package mostly similar to openslide but based on Tifffile, as Openslide is no longer maintained.
+* [Gitlab.com:adfoucart/tissue-segmentation](https://gitlab.com/adfoucart/tissue-segmentation) : tissue segmantation in digital pathology, related to a SIPAIM 2023 conference paper.
+* [Gitlab.com:prother-wal_ulb_lis_mnu/openwholeslide](https://gitlab.com/prother-wal_ulb_lis_mnu/openwholeslide) : openwholeslide, a package mostly similar to openslide but based on Tifffile, as Openslide was buggy and hadn't had an update in a while. Might now be unecessary as there *have* been recent updates, but I haven't tested the new OpenSlide version yet !
 * [Gitlab.com:lisa/tcgasampler](https://gitlab.ulb.be/lisa/tcgasampler) : TCGA Sampler, a script that randomly sample TCGA images at a target resolution (in µm/px) or at a target size (in px).
 
 ## PhD Thesis code
